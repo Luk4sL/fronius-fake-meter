@@ -1,8 +1,0 @@
-{
-    "modbus_ip": "192.168.178.151",
-    "modbus_port": 502,
-    "modbus_slave_id": 200,
-    "battery_max_charge": 90,
-    "battery_min_charge": 70,
-    "overshoot_watt": 500
-}
